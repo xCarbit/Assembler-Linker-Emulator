@@ -1,0 +1,1 @@
+g++ ../../src/emulator/main.cpp ../../src/emulator/emulator.cpp -pthread -o emulator

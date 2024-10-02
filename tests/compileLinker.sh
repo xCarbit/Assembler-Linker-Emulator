@@ -1,0 +1,1 @@
+g++ ../../src/linker/main.cpp ../../src/linker/linker.cpp -o linker
